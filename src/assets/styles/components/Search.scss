@@ -1,0 +1,25 @@
+.main{
+    height: 300px;
+}
+.main__tittle{
+    color: white;
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+}
+.main__tittle--input{
+    border: 2px solid white;
+    border-radius: 57px;
+    margin-left: 12%;
+    font-family: 'Mulish', sans-serif;
+    height: 50px;
+    font-size: 16px;
+    color: white;
+    width: 70%;
+    padding: 0px 20px;
+    background-color: rgba(255, 255, 255, 0.1);
+    outline: none;
+}
+::placeholder{
+    color: white;
+}
