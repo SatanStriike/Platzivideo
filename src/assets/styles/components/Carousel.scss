@@ -1,0 +1,13 @@
+.carousel{
+    width: 100%;
+    /* generar scroll abajo */
+    /* overflow: scroll; */
+    padding: 30px;
+    /* Los elementos que esten dentro se posicionaran segun su posicion */
+    position: relative;
+}
+.carousel__container{
+    white-space: nowrap;
+    margin: 70px 0px;
+    padding-bottom: 10px;
+}
